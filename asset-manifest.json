@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactDnD/static/js/main.11df3d35.js",
+    "main.js": "/reactDnD/static/js/main.c1920c0d.js",
     "index.html": "/reactDnD/index.html",
-    "main.11df3d35.js.map": "/reactDnD/static/js/main.11df3d35.js.map"
+    "main.c1920c0d.js.map": "/reactDnD/static/js/main.c1920c0d.js.map"
   },
   "entrypoints": [
-    "static/js/main.11df3d35.js"
+    "static/js/main.c1920c0d.js"
   ]
 }
