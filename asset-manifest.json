@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/DnD_ToDo/static/js/main.1ba211bb.js",
-    "index.html": "/DnD_ToDo/index.html",
-    "main.1ba211bb.js.map": "/DnD_ToDo/static/js/main.1ba211bb.js.map"
+    "main.js": "/reactDnD/static/js/main.11df3d35.js",
+    "index.html": "/reactDnD/index.html",
+    "main.11df3d35.js.map": "/reactDnD/static/js/main.11df3d35.js.map"
   },
   "entrypoints": [
-    "static/js/main.1ba211bb.js"
+    "static/js/main.11df3d35.js"
   ]
 }
